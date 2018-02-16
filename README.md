@@ -8,9 +8,7 @@ For more background and information on how I got my Razer Blade 14" (2015 Model)
 * [5 Things to Customize Your Ubuntu GNOME Boot and Login Process](https://www.theportlandcompany.com/2018/02/15/5-things-to-customize-your-ubuntu-gnome-boot-login-process/)
 
 
-The image below is just a placeholder, I have not taken a screenshot yet, sorry!
-
-![](https://i.imgur.com/XitFbtv.gif)
+![](background.png)
 
 ### Installation
 
