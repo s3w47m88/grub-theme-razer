@@ -2,7 +2,7 @@
 title-text: ""
 desktop-image: "background.png"
 desktop-color: "#4a5050"
-terminal-font: "Unifont Regular 36"
+terminal-font: "terminus-font Regular 36"
 terminal-box: "terminal_box_*.png"
 terminal-left: "0"
 terminal-top: "0"
@@ -16,7 +16,7 @@ terminal-border: "0"
   top = 20%
   width = 70%
   height = 60%
-  item_font = "Unifont Regular 36"
+  item_font = "terminus-font Regular 36"
   item_color = "#ffffff"
   selected_item_color = "#cccccc"
   item_height = 40
@@ -40,7 +40,7 @@ terminal-border: "0"
   # RU
   # text = "Загрузка выбранного пункта через %d сек."
   color = "#777777"
-  font = "Unifont Regular 36"
+  font = "terminus-font Regular 36"
 }
 
 # Navigation keys hint 
@@ -56,5 +56,5 @@ terminal-border: "0"
   # RU
   # text = "Используйте клавиши ↑ и ↓ для изменения выбора, Enter для подтверждения"
   color = "#777777"
-  font = "Unifont Regular 36"
+  font = "terminus-font Regular 36"
 }
