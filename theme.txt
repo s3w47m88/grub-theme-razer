@@ -9,7 +9,6 @@ terminal-top: "0"
 terminal-width: "100%"
 terminal-height: "100%"
 terminal-border: "0"
-align = "center"
 
 # Boot menu
 + boot_menu {
