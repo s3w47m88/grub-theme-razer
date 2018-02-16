@@ -20,8 +20,6 @@ Simply run the provided install.sh script.
 * Navigate to the folder for the GRUB Theme by typing `cd ~/Downloads/grub-theme-razer` and hitting enter.
 * Then type `sh install.sh` and hit enter.
 * The script will run and output descriptive prompts explaining what it's doing and when it's done. If you get any errors that would not be normal and you can report them on GitHub from the Issues tab.
-* You may have to open /etc/default/grub and add or edit this line to the bottom: GRUB_THEME=/boot/grub/themes/grub-theme-razer/theme.txt
-* To change the resolution you can edit the GRUB_GFXMODE=3200x1800 for high resolution. 
 
 #### After downloading:
 1. Open Terminal
