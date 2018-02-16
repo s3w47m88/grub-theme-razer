@@ -2,22 +2,23 @@
 title-text: ""
 desktop-image: "background.png"
 desktop-color: "#4a5050"
-terminal-font: "Unknown Regular 150%"
+terminal-font: "Unknown Regular 36"
 terminal-box: "terminal_box_*.png"
 terminal-left: "0"
 terminal-top: "0"
 terminal-width: "100%"
 terminal-height: "100%"
 terminal-border: "0"
+align = "center"
 
 # Boot menu
 + boot_menu {
-  top = 50%
+  top = 75%
   width = 100%
   height = 100%
-  item_font = "Unknown Regular 150%"
-  item_color = "#ffffff"
-  selected_item_color = "#cccccc"
+  item_font = "Unknown Regular 36"
+  item_color = "#888888"
+  selected_item_color = "#ffffff"
   item_height = 40
   item_spacing = 4
   item_pixmap_style = "item_*.png"
@@ -38,8 +39,8 @@ terminal-border: "0"
   # text = "Démarrage automatique dans %d secondes"
   # RU
   # text = "Загрузка выбранного пункта через %d сек."
-  color = "#777777"
-  font = "Unknown Regular 150%"
+  color = "#888888"
+  font = "Unknown Regular 36"
 }
 
 # Navigation keys hint 
@@ -54,6 +55,6 @@ terminal-border: "0"
   # text = "Choisissez le système avec les flèches du clavier (↑ et ↓), puis validez avec la touche Enter (↲)"
   # RU
   # text = "Используйте клавиши ↑ и ↓ для изменения выбора, Enter для подтверждения"
-  color = "#777777"
-  font = "Unknown Regular 150%"
+  color = "#888888"
+  font = "Unknown Regular 36"
 }
