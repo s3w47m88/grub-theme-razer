@@ -26,3 +26,7 @@ Simply run the provided install.sh script.
 2. Navigate to the folder you just downloaded by typing `cd ~/Downloads/grub-theme-razer`
 3. And execute the installation script by typing `sh install.sh`.
 4. Then restart the computer.
+
+## Roadmap
+* I need to increase the font sizes. However, none of my attempts so far have worked. There doesn't appear to be a dedicated argument in theme.txt to edit that font size.
+* I would also like to center the text options below the Razer icon.
