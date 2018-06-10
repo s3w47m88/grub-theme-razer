@@ -30,3 +30,6 @@ Simply run the provided install.sh script.
 ## Roadmap
 * I need to increase the font sizes. However, none of my attempts so far have worked. There doesn't appear to be a dedicated argument in theme.txt to edit that font size.
 * I would also like to center the text options below the Razer icon.
+
+## Contributing
+If you would like to contribute to this, or fork it and creating your own version you may find the official GRUB Theme syntax reference helpful: http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference
